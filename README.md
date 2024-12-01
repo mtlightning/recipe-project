@@ -1,1 +1,1 @@
-"# recipe-project" 
+"# desktop application for recipe suggestions" 
